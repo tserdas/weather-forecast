@@ -80,6 +80,7 @@ string
 (query)
 
 http://localhost:8080/api/weather-forecast/get/next48?city=Istanbul
+http://localhost:8080/weather-forecast-0.0.1-SNAPSHOT/swagger-ui/index.html#/weather-controller/getWeatherData
 ```
 Response;
 ```
